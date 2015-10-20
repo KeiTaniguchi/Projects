@@ -1,0 +1,6 @@
+c:\users\kei\documents\visual studio 2013\Projects\trythis\trythis\bin\Debug\trythis.exe.config
+c:\users\kei\documents\visual studio 2013\Projects\trythis\trythis\bin\Debug\trythis.exe
+c:\users\kei\documents\visual studio 2013\Projects\trythis\trythis\bin\Debug\trythis.pdb
+c:\users\kei\documents\visual studio 2013\Projects\trythis\trythis\obj\Debug\trythis.csprojResolveAssemblyReference.cache
+c:\users\kei\documents\visual studio 2013\Projects\trythis\trythis\obj\Debug\trythis.exe
+c:\users\kei\documents\visual studio 2013\Projects\trythis\trythis\obj\Debug\trythis.pdb

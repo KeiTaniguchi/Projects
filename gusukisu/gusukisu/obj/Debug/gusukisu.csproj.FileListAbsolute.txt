@@ -1,0 +1,6 @@
+c:\users\kei\documents\visual studio 2013\Projects\gusukisu\gusukisu\bin\Debug\gusukisu.exe.config
+C:\Users\Kei\documents\visual studio 2013\Projects\gusukisu\gusukisu\bin\Debug\gusukisu.exe
+C:\Users\Kei\documents\visual studio 2013\Projects\gusukisu\gusukisu\bin\Debug\gusukisu.pdb
+C:\Users\Kei\documents\visual studio 2013\Projects\gusukisu\gusukisu\obj\Debug\gusukisu.csprojResolveAssemblyReference.cache
+C:\Users\Kei\documents\visual studio 2013\Projects\gusukisu\gusukisu\obj\Debug\gusukisu.exe
+C:\Users\Kei\documents\visual studio 2013\Projects\gusukisu\gusukisu\obj\Debug\gusukisu.pdb

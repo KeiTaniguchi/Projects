@@ -1,0 +1,6 @@
+c:\users\kei\documents\visual studio 2013\Projects\partial\partial\bin\Debug\partial.exe.config
+c:\users\kei\documents\visual studio 2013\Projects\partial\partial\bin\Debug\partial.exe
+c:\users\kei\documents\visual studio 2013\Projects\partial\partial\bin\Debug\partial.pdb
+c:\users\kei\documents\visual studio 2013\Projects\partial\partial\obj\Debug\partial.csprojResolveAssemblyReference.cache
+c:\users\kei\documents\visual studio 2013\Projects\partial\partial\obj\Debug\partial.exe
+c:\users\kei\documents\visual studio 2013\Projects\partial\partial\obj\Debug\partial.pdb

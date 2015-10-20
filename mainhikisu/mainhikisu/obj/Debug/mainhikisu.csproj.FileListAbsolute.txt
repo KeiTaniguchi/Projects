@@ -1,0 +1,6 @@
+c:\users\kei\documents\visual studio 2013\Projects\mainhikisu\mainhikisu\bin\Debug\mainhikisu.exe.config
+c:\users\kei\documents\visual studio 2013\Projects\mainhikisu\mainhikisu\bin\Debug\mainhikisu.exe
+c:\users\kei\documents\visual studio 2013\Projects\mainhikisu\mainhikisu\bin\Debug\mainhikisu.pdb
+c:\users\kei\documents\visual studio 2013\Projects\mainhikisu\mainhikisu\obj\Debug\mainhikisu.csprojResolveAssemblyReference.cache
+c:\users\kei\documents\visual studio 2013\Projects\mainhikisu\mainhikisu\obj\Debug\mainhikisu.exe
+c:\users\kei\documents\visual studio 2013\Projects\mainhikisu\mainhikisu\obj\Debug\mainhikisu.pdb

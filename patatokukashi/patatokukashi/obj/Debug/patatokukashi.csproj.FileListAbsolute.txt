@@ -1,0 +1,6 @@
+c:\users\kei\documents\visual studio 2013\Projects\patatokukashi\patatokukashi\bin\Debug\patatokukashi.exe.config
+c:\users\kei\documents\visual studio 2013\Projects\patatokukashi\patatokukashi\bin\Debug\patatokukashi.exe
+c:\users\kei\documents\visual studio 2013\Projects\patatokukashi\patatokukashi\bin\Debug\patatokukashi.pdb
+c:\users\kei\documents\visual studio 2013\Projects\patatokukashi\patatokukashi\obj\Debug\patatokukashi.csprojResolveAssemblyReference.cache
+c:\users\kei\documents\visual studio 2013\Projects\patatokukashi\patatokukashi\obj\Debug\patatokukashi.exe
+c:\users\kei\documents\visual studio 2013\Projects\patatokukashi\patatokukashi\obj\Debug\patatokukashi.pdb

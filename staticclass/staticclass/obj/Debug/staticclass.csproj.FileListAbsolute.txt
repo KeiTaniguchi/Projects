@@ -1,0 +1,6 @@
+c:\users\kei\documents\visual studio 2013\Projects\staticclass\staticclass\bin\Debug\staticclass.exe.config
+c:\users\kei\documents\visual studio 2013\Projects\staticclass\staticclass\bin\Debug\staticclass.exe
+c:\users\kei\documents\visual studio 2013\Projects\staticclass\staticclass\bin\Debug\staticclass.pdb
+c:\users\kei\documents\visual studio 2013\Projects\staticclass\staticclass\obj\Debug\staticclass.exe
+c:\users\kei\documents\visual studio 2013\Projects\staticclass\staticclass\obj\Debug\staticclass.pdb
+C:\Users\Kei\Documents\Visual Studio 2013\Projects\staticclass\staticclass\obj\Debug\staticclass.csprojResolveAssemblyReference.cache

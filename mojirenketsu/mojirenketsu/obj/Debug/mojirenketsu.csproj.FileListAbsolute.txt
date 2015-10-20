@@ -1,0 +1,6 @@
+c:\users\kei\documents\visual studio 2013\Projects\mojirenketsu\mojirenketsu\bin\Debug\mojirenketsu.exe.config
+c:\users\kei\documents\visual studio 2013\Projects\mojirenketsu\mojirenketsu\bin\Debug\mojirenketsu.exe
+c:\users\kei\documents\visual studio 2013\Projects\mojirenketsu\mojirenketsu\bin\Debug\mojirenketsu.pdb
+c:\users\kei\documents\visual studio 2013\Projects\mojirenketsu\mojirenketsu\obj\Debug\mojirenketsu.csprojResolveAssemblyReference.cache
+c:\users\kei\documents\visual studio 2013\Projects\mojirenketsu\mojirenketsu\obj\Debug\mojirenketsu.exe
+c:\users\kei\documents\visual studio 2013\Projects\mojirenketsu\mojirenketsu\obj\Debug\mojirenketsu.pdb

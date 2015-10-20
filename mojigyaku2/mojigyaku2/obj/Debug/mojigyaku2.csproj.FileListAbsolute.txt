@@ -1,0 +1,6 @@
+c:\users\kei\documents\visual studio 2013\Projects\mojigyaku2\mojigyaku2\bin\Debug\mojigyaku2.exe.config
+c:\users\kei\documents\visual studio 2013\Projects\mojigyaku2\mojigyaku2\bin\Debug\mojigyaku2.exe
+c:\users\kei\documents\visual studio 2013\Projects\mojigyaku2\mojigyaku2\bin\Debug\mojigyaku2.pdb
+c:\users\kei\documents\visual studio 2013\Projects\mojigyaku2\mojigyaku2\obj\Debug\mojigyaku2.csprojResolveAssemblyReference.cache
+c:\users\kei\documents\visual studio 2013\Projects\mojigyaku2\mojigyaku2\obj\Debug\mojigyaku2.exe
+c:\users\kei\documents\visual studio 2013\Projects\mojigyaku2\mojigyaku2\obj\Debug\mojigyaku2.pdb

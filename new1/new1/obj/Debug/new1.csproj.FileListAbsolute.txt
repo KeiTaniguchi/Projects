@@ -1,0 +1,6 @@
+c:\users\kei\documents\visual studio 2013\Projects\new1\new1\bin\Debug\new1.exe.config
+c:\users\kei\documents\visual studio 2013\Projects\new1\new1\bin\Debug\new1.exe
+c:\users\kei\documents\visual studio 2013\Projects\new1\new1\bin\Debug\new1.pdb
+c:\users\kei\documents\visual studio 2013\Projects\new1\new1\obj\Debug\new1.csprojResolveAssemblyReference.cache
+c:\users\kei\documents\visual studio 2013\Projects\new1\new1\obj\Debug\new1.exe
+c:\users\kei\documents\visual studio 2013\Projects\new1\new1\obj\Debug\new1.pdb
