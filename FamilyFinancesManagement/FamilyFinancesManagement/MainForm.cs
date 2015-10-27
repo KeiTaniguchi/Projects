@@ -23,12 +23,22 @@ namespace FamilyFinancesManagement
 
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void buttonClickCategory(object sender, EventArgs e)
+        {
+            string input = textBox2.Text;
+            comboBox1.Items.Add(input);
+            //TODO:表示欄みたいなのを作成して、表示欄へ「入力されたXXが登録されました」のメッセージを出力。
+            textBox2.Text = "";
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
 
-
-
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
 
         }
 
@@ -36,7 +46,6 @@ namespace FamilyFinancesManagement
         {
 
         }
-
 
     }
 }
