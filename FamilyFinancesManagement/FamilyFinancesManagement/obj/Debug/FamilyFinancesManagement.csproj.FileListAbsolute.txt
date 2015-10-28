@@ -7,3 +7,6 @@ C:\Users\Kei\documents\visual studio 2013\Projects\FamilyFinancesmanagement\Fami
 C:\Users\Kei\documents\visual studio 2013\Projects\FamilyFinancesmanagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.csproj.GenerateResource.Cache
 C:\Users\Kei\documents\visual studio 2013\Projects\FamilyFinancesmanagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.exe
 C:\Users\Kei\documents\visual studio 2013\Projects\FamilyFinancesmanagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.pdb
+D:\gitHub_repo2\home\Projects\FamilyFinancesManagement\FamilyFinancesManagement\bin\Debug\FamilyFinancesManagement.exe.config
+D:\gitHub_repo2\home\Projects\FamilyFinancesManagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.exe
+D:\gitHub_repo2\home\Projects\FamilyFinancesManagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.pdb

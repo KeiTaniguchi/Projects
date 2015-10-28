@@ -27,7 +27,7 @@ namespace FamilyFinancesManagement
         {
             string input = textBox2.Text;
             Control analysis;
-            analysis. = input;
+            analysis += input;
             if (!comboBox1.Contains(analysis))
             {
                 comboBox1.Items.Add(input);
