@@ -26,14 +26,17 @@ namespace FamilyFinancesManagement
         private void buttonClickCategory(object sender, EventArgs e)
         {
             string input = textBox2.Text;
-            Control analysis;
-            analysis += input;
-            if (!comboBox1.Contains(analysis))
-            {
-                comboBox1.Items.Add(input);
-                //TODO:表示欄みたいなのを作成して、表示欄へ「入力されたXXが登録されました」のメッセージを出力。
-                textBox2.Text = "";
-            }
+
+            //コンボボックスに既に追加されているものは入力チェックしたい。
+            int index = comboBox1.FindString(input);
+            comboBox1.SelectedIndex = index;
+
+            //if (comboBox1.FindString(input))
+            //{
+            //comboBox1.Items.Add(input);
+            //TODO:表示欄みたいなのを作成して、表示欄へ「入力されたXXが登録されました」のメッセージを出力。
+            textBox2.Text = "";
+            //}
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
