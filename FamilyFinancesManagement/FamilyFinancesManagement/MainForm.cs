@@ -28,15 +28,23 @@ namespace FamilyFinancesManagement
             string input = textBox2.Text;
 
             //コンボボックスに既に追加されているものは入力チェックしたい。
-            int index = comboBox1.FindString(input);
-            comboBox1.SelectedIndex = index;
+            int index = comboBox1.FindStringExact(input);
 
-            //if (comboBox1.FindString(input))
-            //{
-            //comboBox1.Items.Add(input);
-            //TODO:表示欄みたいなのを作成して、表示欄へ「入力されたXXが登録されました」のメッセージを出力。
+            //comboBox1.SelectedIndex = index;
+
+            if (index.Equals(-1))
+            {
+                comboBox1.Items.Add(input);
+                //TODO:表示欄みたいなのを作成して、表示欄へ「入力されたXXが登録されました」のメッセージを出力。
+            }
+            else
+            {
+                listBox1.Items.Add("すでに存在するカテゴリ名です。");
+                //「すでに存在するカテゴリ名です」のメッセージを出力する。
+            }
+
             textBox2.Text = "";
-            //}
+
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -50,6 +58,11 @@ namespace FamilyFinancesManagement
         }
 
         private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
+        {
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
