@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Windows.Forms;
 
 namespace FamilyFinancesManagement
@@ -12,17 +13,33 @@ namespace FamilyFinancesManagement
 
         int Total { get; set; }
 
+        /// <summary>
+        /// 登録ボタン押下時の動作
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void registration_Click(object sender, EventArgs e)
         {
+            var todayDate = monthCalendar1.TodayDate;
+            listBox1.Items.Add(todayDate);
             int amountOfMoney = 0;
             var input = int.Parse(textBox1.Text);
             amountOfMoney = input;
             listBox1.Items.Add(amountOfMoney.ToString());
-            var todayDate = monthCalendar1.TodayDate;
-            listBox1.Items.Add(todayDate);
+
+            //TODO:ひとまずテキスト出力
+            //今後はxmlとかエクセルとかクラウド上で管理予定。
+            StreamWriter writer = new StreamWriter(@"D:\Family\Family.txt");
+            writer.WriteLine(todayDate + "," + amountOfMoney);
+            writer.Flush();
 
         }
 
+        /// <summary>
+        /// カテゴリ登録ボタン押下時の動作
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void buttonClickCategory(object sender, EventArgs e)
         {
             string input = textBox2.Text;
