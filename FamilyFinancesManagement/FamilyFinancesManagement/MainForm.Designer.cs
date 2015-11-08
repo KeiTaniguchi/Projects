@@ -143,6 +143,7 @@
             this.label3.Size = new System.Drawing.Size(63, 12);
             this.label3.TabIndex = 12;
             this.label3.Text = "カテゴリ入力";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // button1
             // 
