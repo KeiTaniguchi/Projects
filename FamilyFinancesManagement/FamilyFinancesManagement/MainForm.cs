@@ -23,16 +23,35 @@ namespace FamilyFinancesManagement
             var todayDate = monthCalendar1.TodayDate;
             listBox1.Items.Add(todayDate);
             int amountOfMoney = 0;
-            var input = int.Parse(textBox1.Text);
-            amountOfMoney = input;
-            listBox1.Items.Add(amountOfMoney.ToString());
+            try
+            {
+                var input = int.Parse(textBox1.Text);
+                amountOfMoney = input;
+                listBox1.Items.Add(amountOfMoney.ToString());
+
+            }
+            catch (FormatException)
+            {
+
+            }
 
             //TODO:ひとまずテキスト出力
             //今後はxmlとかエクセルとかクラウド上で管理予定。
+            textWriter(todayDate, amountOfMoney);
+
+        }
+
+        /// <summary>
+        /// テキスト出力関数
+        /// </summary>
+        /// <param name="todayDate"></param>
+        /// <param name="amountOfMoney"></param>
+        public void textWriter(DateTime todayDate, int amountOfMoney)
+        {
             StreamWriter writer = new StreamWriter(@"D:\Family\Family.txt");
             writer.WriteLine(todayDate + "," + amountOfMoney);
             writer.Flush();
-
+            writer.Close();
         }
 
         /// <summary>
