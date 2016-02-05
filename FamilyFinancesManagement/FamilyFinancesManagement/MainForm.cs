@@ -54,6 +54,7 @@ namespace FamilyFinancesManagement
             writer.Close();
         }
 
+
         /// <summary>
         /// カテゴリ登録ボタン押下時の動作
         /// </summary>
