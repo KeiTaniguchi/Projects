@@ -14,3 +14,4 @@ D:\gitHub_repo2\home\Projects\FamilyFinancesManagement\FamilyFinancesManagement\
 D:\gitHub_repo2\home\Projects\FamilyFinancesManagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.MainForm.resources
 D:\gitHub_repo2\home\Projects\FamilyFinancesManagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.Properties.Resources.resources
 D:\gitHub_repo2\home\Projects\FamilyFinancesManagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.csproj.GenerateResource.Cache
+C:\Users\Kei\documents\visual studio 2013\Projects\FamilyFinancesmanagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.csprojResolveAssemblyReference.cache
