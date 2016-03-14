@@ -14,4 +14,12 @@ D:\gitHub_repo2\home\Projects\FamilyFinancesManagement\FamilyFinancesManagement\
 D:\gitHub_repo2\home\Projects\FamilyFinancesManagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.MainForm.resources
 D:\gitHub_repo2\home\Projects\FamilyFinancesManagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.Properties.Resources.resources
 D:\gitHub_repo2\home\Projects\FamilyFinancesManagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.csproj.GenerateResource.Cache
-C:\Users\Kei\documents\visual studio 2013\Projects\FamilyFinancesmanagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.csprojResolveAssemblyReference.cache
+C:\Users\Kei\documents\visual studio 2013\Projects\FamilyFinancesmanagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.View.SettingForm.resources
+C:\Users\Kei\documents\visual studio 2013\Projects\FamilyFinancesmanagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.View.TabPanel.categolyTabPanel.resources
+C:\Users\Kei\Documents\Visual Studio 2013\Projects\FamilyFinancesManagement\FamilyFinancesManagement\debug\FamilyFinancesManagement.exe.config
+C:\Users\Kei\Documents\Visual Studio 2013\Projects\FamilyFinancesManagement\FamilyFinancesManagement\debug\FamilyFinancesManagement.exe
+C:\Users\Kei\Documents\Visual Studio 2013\Projects\FamilyFinancesManagement\FamilyFinancesManagement\debug\FamilyFinancesManagement.pdb
+C:\Users\Kei\Documents\Visual Studio 2013\Projects\FamilyFinancesManagement\FamilyFinancesManagement\debug\ClosedXML.dll
+C:\Users\Kei\Documents\Visual Studio 2013\Projects\FamilyFinancesManagement\FamilyFinancesManagement\debug\DocumentFormat.OpenXml.dll
+C:\Users\Kei\Documents\Visual Studio 2013\Projects\FamilyFinancesManagement\FamilyFinancesManagement\debug\ClosedXML.xml
+C:\Users\Kei\Documents\Visual Studio 2013\Projects\FamilyFinancesManagement\FamilyFinancesManagement\obj\Debug\FamilyFinancesManagement.View.fixedCoastItemTabPanel.resources
